@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: youssemd_diffusion2d
+Version: 0.0.1
+Summary: A Python package for solving the 2D diffusion equation using Finite Difference Method
+Home-page: https://github.com/MohamedAlyLoutfy/diffusion2D.git
+Author: Mohamed Youssef
+Author-email: mohamedloutfy97@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
 # diffusion2D
 
 ## Instructions for students
